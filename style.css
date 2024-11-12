@@ -1,0 +1,16 @@
+*{
+    pading:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.logo{
+    width:7%;
+    height:7%;
+}
+
+.admin-image{
+    width:100px;
+    object-fit:contain;
+
+}
